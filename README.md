@@ -8,6 +8,8 @@ The purpose of this project, was to to perform an analysis on the reading and ma
 #Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
 How is the district summary affected?
+
+
 BEFORE cleaning up the data
 
 Average Math Score = 79.0
