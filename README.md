@@ -1,7 +1,7 @@
 # School_District_Analysis
 ## Overview 
 
-The purpose of this project, was to to perform an analysis on the reading and math scores for the high schools in a school district. 
+The purpose of this project, was to to perform an analysis on the reading and math scores for the high schools in a school district. Analysis was performad to see if there any  patterns can be linked to size of schools, type of schools, and the amount of money spent at each school on a per capita basis.
 
 
 
