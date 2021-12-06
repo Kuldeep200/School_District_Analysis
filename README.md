@@ -53,6 +53,7 @@ Thomas high school, before removing the false 9th grade numbers from the dataset
 
 How does replacing the ninth-grade scores affect the following:
 
+
 Math and reading scores by grade
 Math and Reading Scores from Thomas High School 9th Grade set to "nan" and equivalent to 0.
 Math and Reading Scores from Thomas High School 9th Grade means all of them failed (set to fail for analysis).
@@ -61,6 +62,8 @@ Student count() Before THS Cleanup was: 1635
 Student count() After THS Cleanup was: 1174
 
 Scores by school spending
+
+
 Thomas HS is in the spending bucket "$630-644"
 Student count() Before THS Cleanup was: 1635
 Student count() After THS Cleanup was: 1174
@@ -68,11 +71,11 @@ Student count() After THS Cleanup was: 1174
 Scores by school size
 Thomas High School was resevered on Spending Bin "$630-644
 
-Scores by school type
-
 
 
 #Summary
+
+
 i see most of the changes were in  analysis that were in district analysis and the school summary. In the district summary, the district totals was better off without the thomas high school 9th grader grades with marginally higher passing percentages. Secondly, In the per school summary, the passing percentages for thomas high school dropped some when just summarizing the 10th-12th grade scores.
 
 
